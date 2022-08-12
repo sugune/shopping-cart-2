@@ -5,7 +5,13 @@
       "fields": {
         "title": "queen panel bed",
         "price": 10.99,
-        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+        "image": { 
+          "fields": { 
+            "file": { 
+              "url": "./images/product-1.jpeg" 
+            } 
+          } 
+        }
       }
     },
     {
